@@ -6,3 +6,5 @@ while count <= 5:
     turtle.forward(100)
     turtle.right(144)
     count += 1
+
+turtle.end_fill()
