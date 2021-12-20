@@ -5,7 +5,7 @@ Hemos creado un código en python que nos permite dibujar una estrella de muchos
 
 El diagrama de flujo es el siguiente:
 
-
+![image](https://user-images.githubusercontent.com/91721590/146820257-09ec64b2-b168-494b-b448-d3b7604ebf46.png)
 
 El código de la primera estrella es:
 ```
